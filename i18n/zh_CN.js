@@ -115,7 +115,7 @@ window.language['zh_CN'] = {
             text_3: "一键导入Clash/Meta",
             text_4: "一键导入Shadowrocket",
             text_5: "一键导入Surge",
-            text_6: "一键导入Surfboard",
+            text_6: "一键导入SingBox",
             text_7: "一键导入Quantumultx",
             text_8: "一键导入Stash",
             text_9: "复制V2Ray订阅",
