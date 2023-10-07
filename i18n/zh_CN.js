@@ -234,8 +234,8 @@ window.language['zh_CN'] = {
         email_code_null: '请输入邮箱验证码! ',
     },
     login: {
-        title_1: "欢迎登录",
-        title_2: "世界触手可及 - 全球极致网络畅联世界",
+        title_1: "登录",
+        title_2: "全新协议和专线兼得的高速互联网",
         text_1: '账号登录',
         text_2: '请输入您的邮箱和密码登录',
         text_3: "还没账号？",
